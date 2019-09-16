@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ip Address</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="mobile_data">Mobile Data</string>
+    <string name="internet_connectivity">Internet Connectivity</string>
+    <string name="not_connected">No Internet Connection</string>
+</resources>
