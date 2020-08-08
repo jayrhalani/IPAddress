@@ -3,5 +3,5 @@ I've created this android application to get IpAddress of the device. This app a
 
 ## Screenshots
 
-<img src="./art/screen0.png" width="35%">&ensp;<img src="./art/screen1.png" width="35%">
-<img src="./art/screen2.png" width="35%">
+<img src="./art/screen0.png" width="33%">&ensp;<img src="./art/screen1.png" width="33%">
+<img src="./art/screen2.png" width="33%">
